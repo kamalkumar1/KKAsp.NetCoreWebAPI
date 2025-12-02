@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\model\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\model\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\repository\\tokens\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\repository\\tokens\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\model\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\model\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\controllers\\walkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\controllers\\walkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\repository\\walkrepo\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\repository\\walkrepo\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\data\\kkauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\data\\kkauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\data\\kkwebapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\data\\kkwebapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\model\\dto\\addregisterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\model\\dto\\addregisterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\repository\\walkrepo\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\repository\\walkrepo\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\model\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\model\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\model\\dto\\updateregionrequestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\model\\dto\\updateregionrequestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\repository\\region\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\repository\\region\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\mapper\\projectmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\mapper\\projectmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\model\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\model\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\model\\dto\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\model\\dto\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\model\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\model\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\model\\domain\\diffculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\model\\domain\\diffculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|c:\\users\\gowsika c\\source\\repos\\learnproject\\learnproject\\model\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18187800-A5F7-2CD0-1131-DB7E9F47D507}|LearnProject\\LearnProject.csproj|solutionrelative:learnproject\\model\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\BaseModel.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Model\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\BaseModel.cs",
+              "RelativeToolTip": "LearnProject\\Model\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:36:13.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LearnProject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:15:09.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidateModelAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeDocumentMoniker": "LearnProject\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeToolTip": "LearnProject\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:17:10.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Repository\\Tokens\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Repository\\Tokens\\TokenRepository.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Repository\\Tokens\\TokenRepository.cs",
+              "RelativeToolTip": "LearnProject\\Repository\\Tokens\\TokenRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T01:36:38.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LearnProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LearnProject\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-29T17:06:42.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\appsettings.json",
+              "RelativeDocumentMoniker": "LearnProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\appsettings.json",
+              "RelativeToolTip": "LearnProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-29T05:53:43.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionController.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Controllers\\RegionController.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Controllers\\RegionController.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Controllers\\RegionController.cs",
+              "RelativeToolTip": "LearnProject\\Controllers\\RegionController.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAADgv60AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T03:46:16.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\DTO\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Model\\DTO\\LoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\DTO\\LoginResponseDTO.cs",
+              "RelativeToolTip": "LearnProject\\Model\\DTO\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T03:19:12.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLWalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Repository\\WalkRepo\\SQLWalkRepository.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Repository\\WalkRepo\\SQLWalkRepository.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Repository\\WalkRepo\\SQLWalkRepository.cs",
+              "RelativeToolTip": "LearnProject\\Repository\\WalkRepo\\SQLWalkRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAhwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T06:15:50.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WalkController.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Controllers\\WalkController.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Controllers\\WalkController.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Controllers\\WalkController.cs",
+              "RelativeToolTip": "LearnProject\\Controllers\\WalkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAawF0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T07:18:03.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KKauthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Data\\KKauthDbContext.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Data\\KKauthDbContext.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Data\\KKauthDbContext.cs",
+              "RelativeToolTip": "LearnProject\\Data\\KKauthDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:17:04.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KKWebAPIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Data\\KKWebAPIDbContext.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Data\\KKWebAPIDbContext.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Data\\KKWebAPIDbContext.cs",
+              "RelativeToolTip": "LearnProject\\Data\\KKWebAPIDbContext.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwv0YAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T08:21:15.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddRegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\DTO\\AddRegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Model\\DTO\\AddRegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\DTO\\AddRegisterRequestDto.cs",
+              "RelativeToolTip": "LearnProject\\Model\\DTO\\AddRegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:53:24.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateRegionRequestDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\DTO\\UpdateRegionRequestDtos.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Model\\DTO\\UpdateRegionRequestDtos.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\DTO\\UpdateRegionRequestDtos.cs",
+              "RelativeToolTip": "LearnProject\\Model\\DTO\\UpdateRegionRequestDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:50:41.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IWalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Repository\\WalkRepo\\IWalkRepository.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Repository\\WalkRepo\\IWalkRepository.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Repository\\WalkRepo\\IWalkRepository.cs",
+              "RelativeToolTip": "LearnProject\\Repository\\WalkRepo\\IWalkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T06:39:50.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LearnProject\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\appsettings.Development.json",
+              "RelativeToolTip": "LearnProject\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-29T17:06:33.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddRegionRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\DTO\\AddRegionRequestDto.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Model\\DTO\\AddRegionRequestDto.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\DTO\\AddRegionRequestDto.cs",
+              "RelativeToolTip": "LearnProject\\Model\\DTO\\AddRegionRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:37:38.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SQLRegionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Repository\\Region\\SQLRegionRepository.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Repository\\Region\\SQLRegionRepository.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Repository\\Region\\SQLRegionRepository.cs",
+              "RelativeToolTip": "LearnProject\\Repository\\Region\\SQLRegionRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:33:45.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Mapper\\ProjectMapper.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Mapper\\ProjectMapper.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Mapper\\ProjectMapper.cs",
+              "RelativeToolTip": "LearnProject\\Mapper\\ProjectMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T08:59:14.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddWalkRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\DTO\\AddWalkRequestDto.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Model\\DTO\\AddWalkRequestDto.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\DTO\\AddWalkRequestDto.cs",
+              "RelativeToolTip": "LearnProject\\Model\\DTO\\AddWalkRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T04:57:06.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WalkDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\DTO\\WalkDto.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Model\\DTO\\WalkDto.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\DTO\\WalkDto.cs",
+              "RelativeToolTip": "LearnProject\\Model\\DTO\\WalkDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T08:48:15.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\DTO\\RegionDto.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Model\\DTO\\RegionDto.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\DTO\\RegionDto.cs",
+              "RelativeToolTip": "LearnProject\\Model\\DTO\\RegionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:42:46.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Diffculty.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\Domain\\Diffculty.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Model\\Domain\\Diffculty.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\Domain\\Diffculty.cs",
+              "RelativeToolTip": "LearnProject\\Model\\Domain\\Diffculty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T08:20:46.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\Domain\\Region.cs",
+              "RelativeDocumentMoniker": "LearnProject\\Model\\Domain\\Region.cs",
+              "ToolTip": "C:\\Users\\Gowsika C\\source\\repos\\LearnProject\\LearnProject\\Model\\Domain\\Region.cs",
+              "RelativeToolTip": "LearnProject\\Model\\Domain\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T15:38:36.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

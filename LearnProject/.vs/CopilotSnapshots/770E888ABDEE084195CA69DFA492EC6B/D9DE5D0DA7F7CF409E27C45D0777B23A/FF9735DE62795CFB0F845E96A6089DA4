@@ -1,0 +1,26 @@
+﻿using LearnProject.Model.Domain;
+using Microsoft.EntityFrameworkCore;
+
+namespace LearnProject.Data
+{
+    public class KKWebAPIDbContext:DbContext
+    {
+        public KKWebAPIDbContext(DbContextOptions dbContextOptions) : base(dbContextOptions) 
+        {
+
+        }
+        public DbSet<Diffculty> Diffculties { get; set; }
+        public DbSet<Region> Regions { get; set; }
+        public DbSet<Walk> Walks { get; set; }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            var diffculties = new List<Diffculty>
+            {
+                new Diffculty {  Id = new Guid("a1b2c3d4-e5f6-4789-9012-3456789abcde"), Name = "Easy" },
+  
+        }
+
+    }
+}
